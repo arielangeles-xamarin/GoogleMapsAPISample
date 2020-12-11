@@ -6,6 +6,6 @@ namespace MapsAPISample
 {
     public static class Constants
     {
-        public const string GoogleMapsApiKey = "AIzaSyCtEfXlGJUrgmnD6vA6Y4EM0PbZyA3-_v4";
+        public const string GoogleMapsApiKey = "API_KEY_HERE";
     }
 }

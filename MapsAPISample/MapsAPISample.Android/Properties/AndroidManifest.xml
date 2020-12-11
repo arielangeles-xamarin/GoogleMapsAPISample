@@ -3,7 +3,7 @@
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="29" />
     <application android:label="MapsAPISample.Android" android:theme="@style/MainTheme">
       <uses-library android:required="false" android:name="org.apache.http.legacy"/>
-      <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyCtEfXlGJUrgmnD6vA6Y4EM0PbZyA3-_v4"/>
+      <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="API_KEY_HERE"/>
     </application>
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
